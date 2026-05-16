@@ -1,0 +1,10 @@
+Math 6
+Physics 8
+Biology 6
+English 3
+Chemistry 9
+Computer 2
+Urdu 9
+Islamiyat 4
+Pakstudies 2
+Alquran 10
